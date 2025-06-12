@@ -16,12 +16,12 @@ async function updateReadme() {
             return;
         }
 
-        // solutions 폴더에 있는 모든 문제 파일(.cpp)을 읽어옴
+        // solutions 폴더에 있는 모든 문제 파일(.py)을 읽어옴
         const solutionsPath = path.join(__dirname, '..', 'solutions');
         const files = fs.readdirSync(solutionsPath);
         const allProblemIds = files
-            .filter(file => file.endsWith('.cpp'))
-            .map(file => file.replace('.cpp', ''));
+            .filter(file => file.endsWith('.py'))
+            .map(file => file.replace('.py', ''));
 
         if (allProblemIds.length === 0) {
             console.log('solutions 폴더에 풀이 파일이 없습니다.');
