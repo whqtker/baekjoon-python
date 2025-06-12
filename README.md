@@ -1,5 +1,5 @@
 # Baekjoon Online Judge
-![test](https://github.com/whqtker/baekjoon-py/actions/workflows/update-readme.yml/badge.svg)
+![test](https://github.com/whqtker/baekjoon-python/actions/workflows/update-readme.yml/badge.svg)
 
 # 문제 풀이
 
