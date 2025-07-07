@@ -14,5 +14,6 @@
 | 5430 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [AC](https://www.acmicpc.net/problem/5430) | [풀이](./solutions/5430.py) | [해설](https://whqtker.github.io/posts/백준-5430/) |
 | 9466 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [텀 프로젝트](https://www.acmicpc.net/problem/9466) | [풀이](./solutions/9466.py) | [해설](https://whqtker.github.io/posts/백준-9466/) |
 | 9663 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [N-Queen](https://www.acmicpc.net/problem/9663) | [풀이](./solutions/9663.py) | [해설](https://whqtker.github.io/posts/백준-9663/) |
+| 9935 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [문자열 폭발](https://www.acmicpc.net/problem/9935) | [풀이](./solutions/9935.py) | [해설](https://whqtker.github.io/posts/백준-9935/) |
 | 10844 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [풀이](./solutions/10844.py) | [해설](https://whqtker.github.io/posts/백준-10844/) |
 | 10971 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [외판원 순회 2](https://www.acmicpc.net/problem/10971) | [풀이](./solutions/10971.py) | [해설](https://whqtker.github.io/posts/백준-10971/) |
