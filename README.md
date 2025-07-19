@@ -18,3 +18,4 @@
 | 9935 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [문자열 폭발](https://www.acmicpc.net/problem/9935) | [풀이](./solutions/9935.py) | [해설](https://whqtker.github.io/posts/백준-9935/) |
 | 10844 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [풀이](./solutions/10844.py) | [해설](https://whqtker.github.io/posts/백준-10844/) |
 | 10971 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [외판원 순회 2](https://www.acmicpc.net/problem/10971) | [풀이](./solutions/10971.py) | [해설](https://whqtker.github.io/posts/백준-10971/) |
+| 14502 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [연구소](https://www.acmicpc.net/problem/14502) | [풀이](./solutions/14502.py) | [해설](https://whqtker.github.io/posts/백준-14502/) |
