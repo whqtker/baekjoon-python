@@ -12,6 +12,7 @@
 | 2178 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [미로 탐색](https://www.acmicpc.net/problem/2178) | [풀이](./solutions/2178.py) | [해설](https://whqtker.github.io/posts/백준-2178/) |
 | 2252 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [줄 세우기](https://www.acmicpc.net/problem/2252) | [풀이](./solutions/2252.py) | [해설](https://whqtker.github.io/posts/백준-2252/) |
 | 5430 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [AC](https://www.acmicpc.net/problem/5430) | [풀이](./solutions/5430.py) | [해설](https://whqtker.github.io/posts/백준-5430/) |
+| 7576 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [토마토](https://www.acmicpc.net/problem/7576) | [풀이](./solutions/7576.py) | [해설](https://whqtker.github.io/posts/백준-7576/) |
 | 9466 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [텀 프로젝트](https://www.acmicpc.net/problem/9466) | [풀이](./solutions/9466.py) | [해설](https://whqtker.github.io/posts/백준-9466/) |
 | 9663 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [N-Queen](https://www.acmicpc.net/problem/9663) | [풀이](./solutions/9663.py) | [해설](https://whqtker.github.io/posts/백준-9663/) |
 | 9935 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [문자열 폭발](https://www.acmicpc.net/problem/9935) | [풀이](./solutions/9935.py) | [해설](https://whqtker.github.io/posts/백준-9935/) |
