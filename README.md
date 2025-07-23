@@ -7,6 +7,7 @@
 |------|------|------|------|
 | 1000 | <img src="https://static.solved.ac/tier_small/1.svg" width="20" height="20"> [A+B](https://www.acmicpc.net/problem/1000) | [풀이](./solutions/1000.py) | [해설](https://whqtker.github.io/posts/백준-1000/) |
 | 1197 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [풀이](./solutions/1197.py) | [해설](https://whqtker.github.io/posts/백준-1197/) |
+| 1707 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [이분 그래프](https://www.acmicpc.net/problem/1707) | [풀이](./solutions/1707.py) | [해설](https://whqtker.github.io/posts/백준-1707/) |
 | 1753 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [최단경로](https://www.acmicpc.net/problem/1753) | [풀이](./solutions/1753.py) | [해설](https://whqtker.github.io/posts/백준-1753/) |
 | 2110 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [공유기 설치](https://www.acmicpc.net/problem/2110) | [풀이](./solutions/2110.py) | [해설](https://whqtker.github.io/posts/백준-2110/) |
 | 2178 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [미로 탐색](https://www.acmicpc.net/problem/2178) | [풀이](./solutions/2178.py) | [해설](https://whqtker.github.io/posts/백준-2178/) |
