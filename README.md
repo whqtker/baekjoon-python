@@ -22,3 +22,4 @@
 | 10844 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [풀이](./solutions/10844.py) | [해설](https://whqtker.github.io/posts/백준-10844/) |
 | 10971 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [외판원 순회 2](https://www.acmicpc.net/problem/10971) | [풀이](./solutions/10971.py) | [해설](https://whqtker.github.io/posts/백준-10971/) |
 | 14502 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [연구소](https://www.acmicpc.net/problem/14502) | [풀이](./solutions/14502.py) | [해설](https://whqtker.github.io/posts/백준-14502/) |
+| 17835 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [면접보는 승범이네](https://www.acmicpc.net/problem/17835) | [풀이](./solutions/17835.py) | [해설](https://whqtker.github.io/posts/백준-17835/) |
